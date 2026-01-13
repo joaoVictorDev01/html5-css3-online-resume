@@ -1,0 +1,50 @@
+.titles_and_subtitles{
+    color: purple;
+    border-top-color: ivory;
+    border-left-color: ivory;
+    border-right-color:ivory;
+    border-bottom-color: purple;
+    border-style: solid;
+    border-bottom-width: 100%;
+    padding:5px;
+    background-color:ivory;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+body{
+    background-color:beige;
+    font-family: sans-serif;
+    
+}
+.empresa{
+    text-decoration: none;
+    color: blueviolet;
+    
+}
+h1{
+    text-align: center  ;
+    
+}
+.text1{
+    text-align: center;
+    
+}
+h3,h4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.anotherParagraphs{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    
+}
+a:hover{
+    border-style: solid;
+    background-color: pink;
+    border-width: 2px;
+    padding-block: 2px;
+}
